@@ -1,0 +1,14 @@
+name: ChatSystem
+main: Aczj\ChatSystem\ChatSystem
+version: 1.0.0
+author: aczj
+api: 5.0.0
+website: https://github.com/aczj
+
+permissions:
+  chatsystem.admin:
+    default: op
+    description: Allows using /chat management commands.
+  chatsystem.bypass:
+    default: op
+    description: Bypasses cooldown, lock, color, caps, length, mentions and filter restrictions.

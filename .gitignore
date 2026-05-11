@@ -1,0 +1,23 @@
+# PocketMine runtime data
+/plugin_data/
+server.properties
+players/
+worlds/
+crashdumps/
+logs/
+
+# Composer
+/vendor/
+composer.lock
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.phar
+*.zip
+build/

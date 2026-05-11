@@ -1,0 +1,1 @@
+A professional PocketMine-MP chat management system by aczj, featuring cooldowns, chat lock, no-mention protection, filtered words, mention sounds, and embedded ECMD-style commands.

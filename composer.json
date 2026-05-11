@@ -1,0 +1,12 @@
+{
+  "name": "aczj/chatsystem",
+  "description": "Professional PocketMine-MP chat management system by aczj.",
+  "type": "pocketmine-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Aczj\\ChatSystem\\": "src/Aczj/ChatSystem/",
+      "AEDXDEV\\ECMD\\": "src/AEDXDEV/ECMD/"
+    }
+  }
+}
