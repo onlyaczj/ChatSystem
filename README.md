@@ -109,4 +109,4 @@ ChatSystem/
 
 ## Author
 
-Made by **aczj**.
+Discord: **aczj**.
