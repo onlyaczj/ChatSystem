@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest
+branches:
+- main
+projects:
+  ChatSystem:
+    path: ""
+    icon: "assets/icon.png"
+...
