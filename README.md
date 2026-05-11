@@ -1,7 +1,7 @@
 # ChatSystem
 
 <p align="center">
-  <img src="icon.png" width="180" alt="ChatSystem Icon">
+  <img src="assets/icon.png" width="180" alt="ChatSystem Icon">
 </p>
 
 <h1 align="center">ChatSystem</h1>
