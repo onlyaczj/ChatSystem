@@ -1,0 +1,36 @@
+prefix: "§8[§bChatSystem§8]§r"
+bypass-permission: "chatsystem.bypass"
+
+settings:
+  message-cooldown: 1
+  coloring-message: false
+  capital-letters: true
+  character-count: 100
+  locked: false
+
+messages:
+  no-permission: "{prefix} §cYou don't have permission."
+  player-only: "{prefix} §cUse this command in-game only."
+  invalid-number: "{prefix} §cThe number must be between {min} and {max}."
+  cooldown-set: "{prefix} §aMessage cooldown has been set to §e{seconds}s§a."
+  coloring-set: "{prefix} §aColoring messages is now §e{state}§a."
+  capital-set: "{prefix} §aCapital letters are now §e{state}§a."
+  count-set: "{prefix} §aCharacter count limit has been set to §e{count}§a."
+  locked: "{prefix} §cChat has been locked."
+  unlocked: "{prefix} §aChat has been unlocked."
+  chat-locked: "{prefix} §cChat is currently locked."
+  cooldown: "{prefix} §cPlease wait §e{seconds}s §cbefore sending another message or command."
+  color-blocked: "{prefix} §cColor codes are disabled on this server."
+  capital-blocked: "{prefix} §cCapital letters are disabled on this server."
+  too-long: "{prefix} §cYour message is too long. Max characters: §e{max}§c."
+  mention-blocked: "{prefix} §cYou can't mention §e{player}§c."
+  filter-blocked: "{prefix} §cYour message contains a blocked word."
+  no-mention-added: "{prefix} §aAdded §e{player} §ato noMention list."
+  no-mention-removed: "{prefix} §aRemoved §e{player} §afrom noMention list."
+  no-mention-not-found: "{prefix} §cThat player is not in noMention list."
+  no-mention-list: "{prefix} §bNoMention players §8({count}): §7{players}"
+  filter-added: "{prefix} §aAdded §e{word} §ato filter words."
+  filter-removed: "{prefix} §aRemoved §e{word} §afrom filter words."
+  filter-not-found: "{prefix} §cThat word is not in the filter list."
+  filter-list: "{prefix} §bFilter words §8({count}): §7{words}"
+  usage: "§bChatSystem Commands:\n§7/chat MessageCooldown <1-60>\n§7/chat ColoringMessage <on|off>\n§7/chat CapitalLetters <on|off>\n§7/chat CharacterCount <1-1000>\n§7/chat Lock\n§7/chat Unlock\n§7/chat noMention <add|remove> <player>\n§7/chat ListNoMention\n§7/chat FilterWords <add|remove> <word>\n§7/chat ListFilterWords"
