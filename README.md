@@ -1,6 +1,12 @@
 # ChatSystem
 
 <p align="center">
+  <img src="icon.png" width="180" alt="ChatSystem Icon">
+</p>
+
+<h1 align="center">ChatSystem</h1>
+
+<p align="center">
   <b>A professional PocketMine-MP chat management plugin by aczj.</b><br>
   Built for PMMP API 5 with an embedded ECMD-style command layer.
 </p>
