@@ -1,10 +1,17 @@
 # ChatSystem
 
 <p align="center">
-  <img src="assets/icon.png" width="180" alt="ChatSystem Icon">
+  <a href="https://poggit.pmmp.io/p/ChatSystem">
+    <img src="https://poggit.pmmp.io/shield.state/ChatSystem" alt="Poggit release status">
+  </a>
+  <a href="https://poggit.pmmp.io/p/ChatSystem">
+    <img src="https://poggit.pmmp.io/shield.api/ChatSystem" alt="Supported API">
+  </a>
 </p>
 
-<h1 align="center">ChatSystem</h1>
+<p align="center">
+  <img src="assets/icon.png" width="180" alt="ChatSystem Icon">
+</p>
 
 <p align="center">
   <b>A professional PocketMine-MP chat management plugin by aczj.</b><br>
