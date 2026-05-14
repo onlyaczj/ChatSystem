@@ -1,6 +1,6 @@
 name: ChatSystem
 main: Aczj\ChatSystem\ChatSystem
-version: 1 Public
+version: 1.0.0
 author: aczj
 api: 5.0.0
 
